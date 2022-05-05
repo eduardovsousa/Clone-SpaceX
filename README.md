@@ -8,9 +8,9 @@ Page build using
 `The page uses animations and responsiveness.`
 
 Deployed on
-[Heroku](https://heroku.com).
+[Netlify](https://www.netlify.com/).
 #
-## Click [here](https://js-note-client.herokuapp.com/) to see a demo
+## Click [here](clone-spacex-by-evs.netlify.app) to see a demo!!
 HOME                            |  Falcon 9                      | Human Spaceflight         
 :-------------------------------:|:-----------------------------:|:-------------------------:|
 ![](images/background-git/img01.png)        |  ![](images/background-git/img02.png)      | ![](images/background-git/img03.png)  |
